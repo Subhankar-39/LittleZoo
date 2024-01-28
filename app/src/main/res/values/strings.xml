@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyMetarial</string>
+    <string name="expand_button_content_description">more my description</string>
+    <string name="description_tiger">The tiger is the largest cat species and is known for its distinctive orange coat with black stripes.</string>
+    <string name="description_lion">Lions are majestic big cats known for their distinctive manes and powerful roars.</string>
+    <string name="description_dog">Dogs are loyal and friendly domestic animals, often referred to as humans\' best friends.</string>
+    <string name="description_elephant">Elephants are the largest land animals with a trunk and large ears, known for their intelligence and social behavior.</string>
+    <string name="description_red_panda">Red pandas are adorable, tree-dwelling mammals with a reddish-brown fur and a ringed tail.</string>
+    <string name="description_white_panda">White pandas, also known as giant pandas, are bears native to China, recognized by their black and white fur.</string>
+    <string name="description_camel">Camels are large mammals adapted to desert environments, known for their distinctive humps.</string>
+    <string name="description_ape">Apes, such as chimpanzees and gorillas, are highly intelligent primates that share genetic similarities with humans.</string>
+    <string name="description_giraffe">Giraffes are the world\'s tallest mammals, known for their long necks and distinctive spotted coat patterns.</string>
+    <string name="description_cat">Cats are small, carnivorous mammals known for their agility, graceful movements, and soft fur. They are popular as pets and come in various breeds.</string>
+
+</resources>
