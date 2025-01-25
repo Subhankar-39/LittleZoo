@@ -1,4 +1,4 @@
-# LittleZoo
+# LittleZoo by JetPack Compose
 
 ## First Screen
 ![1](https://github.com/Subhankar-39/LittleZoo/assets/143151716/ca51a006-50d1-4855-8c1d-f150abe2b7b7)
